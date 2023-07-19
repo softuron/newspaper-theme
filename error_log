@@ -1,0 +1,4 @@
+[22-May-2021 11:51:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home1/banijjop/public_html/wp-content/themes/newsbanijjo/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home1/banijjop/public_html/wp-content/themes/newsbanijjo/index.php on line 1
